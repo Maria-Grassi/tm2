@@ -46,7 +46,7 @@ Salpicadura a;
 
 void setup() {
 
-  size(1700, 900, P3D );
+  size(1200, 740, P3D );
   background(255);
   //colorMode(HSB, 360, 100, 100);
   c = new Caminante();
